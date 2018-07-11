@@ -1,0 +1,7 @@
+D:\My Code\Applications\NeuralNet1\NeuralNet1\bin\Debug\NeuralNet1.exe.config
+D:\My Code\Applications\NeuralNet1\NeuralNet1\bin\Debug\NeuralNet1.exe
+D:\My Code\Applications\NeuralNet1\NeuralNet1\bin\Debug\NeuralNet1.pdb
+D:\My Code\Applications\NeuralNet1\NeuralNet1\obj\Debug\NeuralNet1.csprojResolveAssemblyReference.cache
+D:\My Code\Applications\NeuralNet1\NeuralNet1\obj\Debug\NeuralNet1.csproj.CoreCompileInputs.cache
+D:\My Code\Applications\NeuralNet1\NeuralNet1\obj\Debug\NeuralNet1.exe
+D:\My Code\Applications\NeuralNet1\NeuralNet1\obj\Debug\NeuralNet1.pdb
